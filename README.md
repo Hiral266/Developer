@@ -10,7 +10,7 @@ A simple Node.js RESTful API to manage books, users, and reviews.
 - Add/Update/Delete Book Reviews
 
 ## Setup
-
+fix a typo in 
 ```bash
 npm install
 node index.js
